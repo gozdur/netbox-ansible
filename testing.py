@@ -4,10 +4,10 @@ import json
 import requests
 
 # Netbox URL
-URL = 'http://35.198.136.252:32768'
+URL = 'http://'
 
 # Netbox API Token
-TOKEN = '126262c5b9c13a7a1102ee1e1a416004f5bf8217'
+TOKEN = ''
 
 # AWX Filter Tags
 FILTER_TAGS = []
